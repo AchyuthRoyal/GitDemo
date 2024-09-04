@@ -1,3 +1,2 @@
 This is a new text file, in the new line.
-
 Hello world
